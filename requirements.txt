@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+opencv-python-headless
+mediapipe
+scipy
