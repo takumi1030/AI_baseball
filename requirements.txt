@@ -2,5 +2,6 @@ streamlit
 pandas
 matplotlib
 opencv-python-headless
-mediapipe
 scipy
+protobuf==3.20.3
+mediapipe==0.10.9
